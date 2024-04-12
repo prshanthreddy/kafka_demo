@@ -1,0 +1,10 @@
+{
+  "name": "kafkajs",
+  "version": "2.2.4",
+  "main": "index.js",
+  "author": "PRASHANTH REDDY <81088623+prshanthreddy@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
